@@ -1,0 +1,7 @@
+{
+    "type"          : "exact",
+    "instance-path" : "instances/q1",
+    "solutions"     : "solutions/q1",
+    "encoding"      : "yosenabe1.lp",
+    "points"        : 30
+}
